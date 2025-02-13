@@ -9,6 +9,5 @@ prophet
 joblib
 sqlalchemy
 xlsxwriter
-shutil
 openpyxl
-sqlite
+cmdstanpy
